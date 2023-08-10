@@ -1,1 +1,1 @@
-2.0 > 2.1, https://github.com/Menowapi/TagWars/releases/download/2.1/Patch.zip, 990
+2.0 > 2.1, https://github.com/Menowapi/TagWars/releases/download/2.1/Patch.zip, 991
