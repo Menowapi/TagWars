@@ -1,1 +1,2 @@
 1.0 > 1.01, https://github.com/Menowapi/TagWars/releases/download/1.01/v1.01.zip, 1, https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog%201.01.txt
+1.01 > 1.02, https://github.com/Menowapi/TagWars/releases/download/1.02/v1.02.zip, 0.37, 
