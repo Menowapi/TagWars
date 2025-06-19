@@ -15,7 +15,7 @@ Fire Ken - New Air Dash
 Ice Ryu - New Air Dash
 Kasim - Explod fixed that wouldn't disapear
 
-New Palettes:
+<#0000FF>:NEW PALETTES:</>
 Abigail, Baki, Broly, Heavy D, Asura, King of Dinosaurs, 
 Lilith, Silver Samurai, Rouge, Ryuuken, Rozwell:(New Cards), Shira Angel, and Yujiro
 
