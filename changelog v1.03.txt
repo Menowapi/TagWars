@@ -15,18 +15,6 @@ Ice Ryu - New Air Dash
 Kasim - Explod fixed that wouldn't disapear
 
 New palettes for some characters
-Abigail - 610mb - Gonna have to avoid adding palettes to 3D characters LOL
-Baki
-Broly - removed some ugly palettes
-Heavy D
-Asura
-King of Dinosaurs
-Lilith
-Silver Samurai 
-Rouge
-Ryuuken
-Rozwell - New Cards too
-Shira Angel
-Yujiro
+Abigail, Baki, Broly - removed some ugly palettes, Heavy D, Asura, King of Dinosaurs, Lilith, Silver Samurai, Rouge, Ryuuken, Rozwell:(New Cards), Shira Angel, and Yujiro
 
 
