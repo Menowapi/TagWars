@@ -3,7 +3,8 @@ Special Moves - Flip Kick: QCF + LK or MK, Rolling Crystal Flash: QCF + LP or MP
 
 Changes to Ryuuken
 New moves - Demon Flip, overhead F+MP+MK, Solar Plex F+HP, Light Tatsu, and Air Dash. 
-New EX moves - QCF + HP or HK - QCB, HP or HK ground/air (Air Ex Fireballs unfinished need to give better properties)
+New EX moves - QCF + HP or HK - QCB, HP or HK ground/air (Air Ex Fireballs unfinished 
+need to give better properties)
 
 Fixed, Android 18 Shadow Clones not working
 Fixed, Piccolo Shadow Clones not working
@@ -14,7 +15,8 @@ Fire Ken - New Air Dash
 Ice Ryu - New Air Dash
 Kasim - Explod fixed that wouldn't disapear
 
-New palettes for some characters
-Abigail, Baki, Broly - removed some ugly palettes, Heavy D, Asura, King of Dinosaurs, Lilith, Silver Samurai, Rouge, Ryuuken, Rozwell:(New Cards), Shira Angel, and Yujiro
+New Palettes:
+Abigail, Baki, Broly, Heavy D, Asura, King of Dinosaurs, 
+Lilith, Silver Samurai, Rouge, Ryuuken, Rozwell:(New Cards), Shira Angel, and Yujiro
 
 
