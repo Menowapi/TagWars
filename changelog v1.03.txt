@@ -10,7 +10,7 @@ Fixed, Android 18 Shadow Clones not working
 Fixed, Piccolo Shadow Clones not working
 Fixed, D.Yashiro Shadow Clones on his command grabs
 patched, Asura - Arrow special - reduced inflicted stamina bar drain to the opponent.
-patched, Blackheart - Heavy Kick reduced stamina cost, from 300 to 200
+patched, Blackheart - HK Minions reduced stamina cost, from 300 to 200
 Fire Ken - New Air Dash
 Ice Ryu - New Air Dash
 Kasim - Explod fixed that wouldn't disapear
