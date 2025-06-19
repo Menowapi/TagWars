@@ -6,17 +6,16 @@ New moves - Demon Flip, overhead F+MP+MK, Solar Plex F+HP, Light Tatsu, and Air 
 New EX moves - QCF + HP or HK - QCB, HP or HK ground/air (Air Ex Fireballs unfinished 
 need to give better properties)
 
-Fixed, Android 18 Shadow Clones not working
-Fixed, Piccolo Shadow Clones not working
-Fixed, D.Yashiro Shadow Clones on his command grabs
-patched, Asura - Arrow special - reduced inflicted stamina bar drain to the opponent.
-patched, Blackheart - HK Minions reduced stamina cost, from 300 to 200
+Patches:
+Android 18 Shadow Clones not working
+Asura - Arrow special - reduced inflicted stamina bar drain to the opponent.
+Blackheart - HK Minions reduced stamina cost, from 300 to 200
 Fire Ken - New Air Dash
 Ice Ryu - New Air Dash
 Kasim - Explod fixed that wouldn't disapear
+Piccolo Shadow Clones not working
+D.Yashiro Shadow Clones on his command grabs
 
-<#0000FF>:NEW PALETTES:</>
+NEW PALETTES:
 Abigail, Baki, Broly, Heavy D, Asura, King of Dinosaurs, 
 Lilith, Silver Samurai, Rouge, Ryuuken, Rozwell:(New Cards), Shira Angel, and Yujiro
-
-
