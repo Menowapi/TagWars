@@ -1,12 +1,11 @@
-Changes to Vega - Inputs reworked. New Air Dash
+VEGA: Inputs reworked. New Air Dash
 Special Moves - Flip Kick: QCF + LK or MK, Rolling Crystal Flash: QCF + LP or MP 
 
-Changes to Ryuuken
-New moves - Demon Flip, overhead F+MP+MK, Solar Plex F+HP, Light Tatsu, and Air Dash. 
+RYUUKEN: New moves - Demon Flip, overhead F+MP+MK, Solar Plex F+HP, Light Tatsu, and Air Dash. 
 New EX moves - QCF + HP or HK - QCB, HP or HK ground/air (Air Ex Fireballs unfinished 
 need to give better properties)
 
-Patches:
+PATCHES:
 Android 18 Shadow Clones not working
 Asura - Arrow special - reduced inflicted stamina bar drain to the opponent.
 Blackheart - HK Minions reduced stamina cost, from 300 to 200
