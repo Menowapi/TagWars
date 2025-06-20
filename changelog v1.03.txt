@@ -2,18 +2,17 @@ VEGA: Inputs reworked. New Air Dash
 Special Moves - Flip Kick: QCF + LK or MK, Rolling Crystal Flash: QCF + LP or MP 
 
 RYUUKEN: New moves - Demon Flip, overhead F+MP+MK, Solar Plex F+HP, LK Tatsu, and Air Dash. 
-New EX moves - QCF + HP or HK - QCB, HP or HK ground/air (Air Ex Fireballs unfinished 
-need to give better properties)
+New EX moves - Ground/Air - QCF + HP or HK - QCB, HP or HK 
 
 PATCHES:
-Android 18 Shadow Clones not working
+Android 18 Shadow Clones not working #fixed
 Asura - Arrow special - reduced inflicted stamina bar drain to the opponent.
-Blackheart - HK Minions reduced stamina cost, from 300 to 200
-Fire Ken - New Air Dash
-Ice Ryu - New Air Dash
-Kasim - Explod fixed that wouldn't disapear
-Piccolo Shadow Clones not working
-D.Yashiro Shadow Clones on his command grabs
+Blackheart - S/C/J HK Minions reduced stamina cost, from 300 to 200
+Fire Ken - Air Dash #New
+Ice Ryu - Air Dash #New
+Kasim - Explods wouldn't disapear #fixed
+Piccolo Shadow Clones not working #fixed
+D.Yashiro Shadow Clones on his command grabs #fixed
 
 NEW PALETTES:
 Abigail, Baki, Broly, Heavy D, Asura, King of Dinosaurs, 
