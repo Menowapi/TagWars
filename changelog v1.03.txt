@@ -1,7 +1,7 @@
 VEGA: Inputs reworked. New Air Dash
 Special Moves - Flip Kick: QCF + LK or MK, Rolling Crystal Flash: QCF + LP or MP 
 
-RYUUKEN: New moves - Demon Flip, overhead F+MP+MK, Solar Plex F+HP, Light Tatsu, and Air Dash. 
+RYUUKEN: New moves - Demon Flip, overhead F+MP+MK, Solar Plex F+HP, LK Tatsu, and Air Dash. 
 New EX moves - QCF + HP or HK - QCB, HP or HK ground/air (Air Ex Fireballs unfinished 
 need to give better properties)
 
