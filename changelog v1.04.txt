@@ -1,3 +1,12 @@
+Play Solo added:
+Arade 
+Team Arcade
+Co-Op Play
+Quick Match
+Time Attack
+Survival
+Survival Co-Op
+
 Characters Patched:
 Ryuuken added new super QCB, MP+HP
 
