@@ -4,3 +4,4 @@
 1.03 > 1.04, https://github.com/Menowapi/TagWars/releases/download/1.04/v1.04.zip, 141, https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog%20v1.04.txt
 1.04 > 1.045, https://github.com/Menowapi/TagWars/releases/download/v1.045/v1.045.zip, 472,  https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog%20v1.045.txt
 1.045 > 1.05, https://github.com/Menowapi/TagWars/releases/download/v.1.05/v1.05.zip, 875, https://raw.githubusercontent.com/Menowapi/TagWars/refs/tags/v.1.05/changelog%20v1.05.txt
+1.05 > 1.06, https://github.com/Menowapi/TagWars/releases/download/v.1.06/v1.06.zip, 308, https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog%20v1.06.txt
