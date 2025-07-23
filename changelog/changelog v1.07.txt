@@ -1,1 +1,29 @@
-more stuff
+System changes:
+Charge: reduced charge by half when opponent is getting hit and partner is charging. 
+Chronus Fixed
+
+New select screen background:
+
+Character Changes:
+Shaq: 
+His super cancel > D,DF,F,a+b into LV2 and LV3 has been changed. He now can go from Lv1 into Lv3. 
+
+New Character:
+Rashou Mon: in the Geese slot
+Rikuo: Darkstalker
+
+Stages:
+"Spiderman_Stage"
+"Spider-Man - Construction Zone, Night"
+
+New Music to select screen :
+Godfather Don 'Status' [1996]
+MF GRIMM - "HOWL" (INSTRUMENTAL)
+
+New music to continue screen:
+The Game - Dreams
+Eminem - I Just Don't Give A Fuck
+
+New music to score screen:
+Naruto mix 
+
