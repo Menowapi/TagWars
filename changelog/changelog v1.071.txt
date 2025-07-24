@@ -1,1 +1,0 @@
-fixed characters not appearing in the select screen
