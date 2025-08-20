@@ -2,13 +2,13 @@ Patchnotes:
 
 7 new characters
 ;---------------------
-SFV_Ibuki
-SFV_Urien
-Rikou
-Eagle
-Goku Black
-Golden Freeza
-Spiderman-KOFM
+SFV_Ibuki - In SF3 Row slot 2 for Ibuki
+SFV_Urien - In SF3 Row slot 2 for Urien
+Rikou - In Darkstarlkers Row slot 1
+Eagle - In SF Alpha Row slot 1
+Goku Black - In DBZ Row slot 1
+Golden Freeza - In DBZ Row slot 1
+Spiderman-KOFM - In Marvel Row slot 1
 
 ;New ex moves for
 ;---------------------
