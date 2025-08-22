@@ -1,8 +1,8 @@
 We’re rolling out a balance patch for select characters ahead of the tournament. 
 The next update will arrive after the tournament, unless a critical bug requires an emergency fix.
 ;-----------------------------------------------------------------------------;
-Recently added: Online leaderboard for Arcade mode. Who will be #1 ?      ;
-Recently added: Debug function for controller support in the pause menu.  ;
+Recently added: Online leaderboard for Arcade mode. Who will be #1 ?          ;
+Recently added: Debug function for controller support in the pause menu.      ;
 ;-----------------------------------------------------------------------------;
 ;-----------------------;
 Character Balance Patch ;
