@@ -10,4 +10,4 @@
 1.07 > 1.08, https://github.com/Menowapi/TagWars/releases/download/v.1.08/1.08.zip, 1120, https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog/changelog%20v1.08.txt
 1.08 > 1.081, https://github.com/Menowapi/TagWars/releases/download/v1.081/1.081.zip, 26.6, https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog/changelog%20v1.081.txt
 1.081 > 1.082, https://github.com/Menowapi/TagWars/releases/download/v1.082/v1.082.zip, 198, https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog/changelog%20v1.082.txt
-1.082 > 1.083, https://github.com/Menowapi/TagWars/releases/download/v1.083/chars.zip, 35mb, https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog/changelog%20v1.083.txt
+1.082 > 1.083, https://github.com/Menowapi/TagWars/releases/download/v1.083/v1.083.zip, 35mb, https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog/changelog%20v1.083.txt
