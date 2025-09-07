@@ -14,3 +14,4 @@
 1.083 > 1.084, https://github.com/Menowapi/TagWars/releases/download/v1.084/1.084.zip, 0.29, https://raw.githubusercontent.com/Menowapi/TagWars/refs/tags/v1.084/changelog/changelog%20v1.084.txt
 1.084 > 1.085, https://github.com/Menowapi/TagWars/releases/download/v1.085/1.085.zip, 128, https://raw.githubusercontent.com/Menowapi/TagWars/refs/tags/v1.086/changelog/changelog%20v1.085.txt
 1.085 > 1.086, https://github.com/Menowapi/TagWars/releases/download/v1.086/1.086.zip, 221, https://raw.githubusercontent.com/Menowapi/TagWars/refs/tags/v1.086/changelog/changelog%20v1.086.txt
+1.086 > 1.087, https://github.com/Menowapi/TagWars/releases/download/v1.087/1.087.zip, 22.6, https://raw.githubusercontent.com/Menowapi/TagWars/refs/heads/main/changelog/changelog%20v1.087.txt
