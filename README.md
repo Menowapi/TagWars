@@ -1,1 +1,1 @@
-# TagWars
+# TagWars CNB discontinued RIP
